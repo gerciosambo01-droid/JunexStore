@@ -1,0 +1,6 @@
+{
+  "name": "Jogo de Damas",
+  "description": "Jogo de Damas clássico em madeira artesanal, com regras Brasileiras e Americanas, modo contra IA e 2 jogadores locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
